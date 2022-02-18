@@ -70,9 +70,15 @@ div {
   margin-bottom: 3rem;
 }
 .message {
+  font-size: 2rem;
   margin-bottom: 8rem;
   height: 4rem;
 }
 .label-score {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+.label-highscore {
+  font-size: 2rem;
   margin-bottom: 2rem;
 }
